@@ -5,7 +5,7 @@
 
     <div class="card mt-5">
         <div class="card-header">
-            Create User
+            Create student
         </div>
 
         <div class="card-body">

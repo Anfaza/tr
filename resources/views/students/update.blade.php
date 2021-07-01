@@ -6,7 +6,7 @@
 
     <div class="card mt-5">
         <div class="card-header">
-            Update
+            Update student
         </div>
 
         <div class="card-body">
