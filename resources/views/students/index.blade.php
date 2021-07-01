@@ -1,3 +1,4 @@
+@auth
 @extends('students.layout')
 
 @section('content')
@@ -38,3 +39,4 @@
         </table>
         <div>
 @endsection
+@endauth
