@@ -1,4 +1,4 @@
-@auth
+
 @extends('students.layout')
 
 @section('content')
@@ -40,4 +40,3 @@
         </div>
     </div>
 @endsection
-@endauth

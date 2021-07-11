@@ -11,7 +11,14 @@ class StudentController extends Controller
      * Display a listing of the resource.
      *
      * @return \Illuminate\Http\Response
+     *
      */
+
+    public function _construct(){
+
+
+       $this->middleware('auth');
+    }
     public function index()
     {
         $students = Student::latest()->paginate(10);
