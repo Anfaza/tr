@@ -1,6 +1,6 @@
-language: node_js
-node_js:
-  - "stable"
+language: php
+php:
+  - "7.4.5"
 cache:
   directories:
     - node_modules
